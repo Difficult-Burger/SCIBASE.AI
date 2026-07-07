@@ -23,4 +23,9 @@ node test.js
 node demo.js
 ```
 
+Demo artifacts:
+
+- `demo.svg` shows the guard scope and expected verification result.
+- `demo.mp4` is a short video rendering of the same verification summary for bounty review.
+
 No external services, private data, credentials, package installs, or live payment integrations are required.

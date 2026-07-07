@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Enterprise admin session redaction guard demo</title>
+  <desc id="desc">Demo artifact for SCIBASE issue 19 showing checks, commands, and release decision.</desc>
+  <rect width="1280" height="720" fill="#0b1020"/>
+  <rect x="48" y="48" width="1184" height="624" rx="18" fill="#111a2e" stroke="#335177" stroke-width="2"/>
+  <text x="80" y="110" fill="#8fd3ff" font-family="Arial, Helvetica, sans-serif" font-size="34">SCIBASE.AI issue #19</text>
+  <text x="80" y="170" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">Enterprise admin session redaction guard</text>
+  <text x="80" y="245" fill="#d7e6ff" font-family="Arial, Helvetica, sans-serif" font-size="30">Checks privileged replay exports before institutional audit sharing.</text>
+  <text x="80" y="305" fill="#d7e6ff" font-family="Arial, Helvetica, sans-serif" font-size="28">- Sensitive events require masked or tokenized redaction evidence</text>
+  <text x="80" y="350" fill="#d7e6ff" font-family="Arial, Helvetica, sans-serif" font-size="28">- Critical admin actions require ticket, reason, and reviewer approval</text>
+  <text x="80" y="395" fill="#d7e6ff" font-family="Arial, Helvetica, sans-serif" font-size="28">- Raw playback retention and shared replay links are bounded</text>
+  <rect x="80" y="445" width="760" height="118" rx="12" fill="#07111f" stroke="#284769"/>
+  <text x="110" y="490" fill="#98f5c0" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Verification</text>
+  <text x="110" y="530" fill="#f3f7ff" font-family="monospace" font-size="24">node enterprise-admin-session-redaction-guard/test.js</text>
+  <text x="110" y="565" fill="#f3f7ff" font-family="monospace" font-size="24">node enterprise-admin-session-redaction-guard/demo.js</text>
+  <rect x="880" y="445" width="300" height="118" rx="12" fill="#0f2a1f" stroke="#2b8a5a"/>
+  <text x="918" y="500" fill="#98f5c0" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700">decision: release</text>
+  <text x="948" y="545" fill="#dfffe9" font-family="Arial, Helvetica, sans-serif" font-size="28">score: 100</text>
+  <text x="80" y="625" fill="#9fb5d1" font-family="Arial, Helvetica, sans-serif" font-size="22">No external services, private data, credentials, package installs, or payment integrations are required.</text>
+</svg>
